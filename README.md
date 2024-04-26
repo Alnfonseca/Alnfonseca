@@ -1,13 +1,14 @@
-### Oii, eu sou o Alan Fonseca
+### Oii, eu sou o Alan Fonseca e Seja Bem Vindo ao meu Perfil do github!
 
 
-- 🔭 I’m currently working on ...
 - 🌱 Estou estudando sobre desenvolvimento web
 - ⚡ Gosto de trabalhar de uma forma mais Proativa
 - 😁 Gosto de trabalhar em equipe
 - 😄 Pronouns: Ele/Dele
+
 ##
 
+ ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Alnfonseca&compact&theme=dracula)
 <div>
  <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
