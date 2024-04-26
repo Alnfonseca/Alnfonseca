@@ -1,9 +1,6 @@
 ### Oii, eu sou o Alan Fonseca
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 Estou estudando sobre desenvolvimento web
 - ⚡ Gosto de trabalhar de uma forma mais Proativa
