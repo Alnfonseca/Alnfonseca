@@ -11,7 +11,7 @@
   <h3>- Proatividade <br>
   - Flexibilidade<br>
   - Criatividade<br>
-  - Organização
+  - Organização<br>
   - Capacidade de Trabalhar em Grupo<br></h3>
   
 
