@@ -15,13 +15,13 @@
   - Organização</h3>
 
 
-<h1>ESTUDANDO📚</h1>
+<!--<h1>ESTUDANDO📚</h1>
 <div>
  <img align="center" alt="Alan-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="Alan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  <img align="center" alt="Alan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
- <br>
+  <br> -->
 <div>
  <a href="https://www.instagram.com/aln.fonseca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
