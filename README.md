@@ -9,10 +9,10 @@
 </div>
   <h1>SOFT SKILLS🌟</h1>
   <h3>- Proatividade <br>
-  - Capacidade de Trabalhar em Grupo<br>
   - Flexibilidade<br>
   - Criatividade<br>
   - Organização</h3>
+  - Capacidade de Trabalhar em Grupo<br>
 
 
 <!--<h1>ESTUDANDO📚</h1>
