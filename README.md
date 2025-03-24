@@ -10,7 +10,7 @@
   <h1>SOFT SKILLS🌟</h1>
   <h3>- Proatividade <br>
   - Capacidade de Trabalhar em Grupo<br>
-  - Flexíbilidade<br>
+  - Flexibilidade<br>
   - Criatividade<br>
   - Organização</h3>
 
